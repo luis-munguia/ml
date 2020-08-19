@@ -1,2 +1,3 @@
-# ml
- Machine Learning
+# Machine Learning Courses
+
+## On the road to AI
